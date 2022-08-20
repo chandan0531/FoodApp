@@ -1,0 +1,26 @@
+#navbar{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+
+}
+#options{
+    display: flex;
+    gap: 15px;
+}
+#query{
+    height: 30px;
+    width: 300px;
+
+}
+#container{
+    height: 500px;
+    width: 500px;
+}
+#container>img{
+    height: 500px;
+    width: 500px;
+}
+#homeimge {
+width: 100%;
+}
